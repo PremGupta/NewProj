@@ -11,9 +11,9 @@ public class Annot2 {
 		System.out.println("BeforeSuite -  installSoftware");
 	}
 	
-	@AfterSuite
+/*	@AfterSuite
 	public void deinstallSoftware()
 	{
 		System.out.println("AfterSuite -  deinstallSoftware");
-	}
+	} */
 }
